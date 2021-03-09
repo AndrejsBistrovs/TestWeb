@@ -1,0 +1,29 @@
+
+table {
+    background-color: #998f00;
+  }
+  th {
+    border: 7px outset rgb(184, 126, 60);
+  }
+  td {
+    border: 7px outset rgb(184, 126, 60);
+  }
+  h0 {
+    color: rgb(255, 251, 0);
+    font-size: 400%;
+  }
+h1 {
+  color: rgb(204, 133, 0);
+  font-size: 300%;
+}
+p {
+  color: rgb(255, 254, 169);
+  font-size: 160%;
+}
+a:link {
+  color: rgb(240, 229, 229);
+}
+a:visited {
+  color: rgb(240, 229, 229);
+}
+a {font-size: 30px}
